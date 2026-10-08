@@ -1,0 +1,3 @@
+QUARTUS_VERSION = "20.1"
+DATE = "08:00:00  October 08, 2026"
+PROJECT_REVISION = "wicare_resource"
